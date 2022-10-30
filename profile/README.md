@@ -1,6 +1,6 @@
 <br /><br />
 <p align="center">
-  <img src="assets/icon.png" />
+  <img src="/profile/assets/icon.png" />
 </p>
 <br />
 
