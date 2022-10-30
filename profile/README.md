@@ -1,8 +1,8 @@
-<br /><br /><br /><br />
+<br /><br />
 <p align="center">
   <img src="assets/icon.png" />
 </p>
-<br /><br />
+<br />
 
 # Edge Kit
 > A new ecosystem for running and managing edge-computing infrastructure and workloads.
